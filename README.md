@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AayushJain09
+- 🖥️ I am a Web-Developer
 - 👀 I’m interested in Web Development and Blockchain technology
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Blockchain Development
 - 📫 How to reach me on LinkedIn as I am active there.
 
 <!---
